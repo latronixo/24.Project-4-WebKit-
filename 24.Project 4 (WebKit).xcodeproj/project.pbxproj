@@ -11,27 +11,27 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6BF29D652DC2620C009FCC63 /* Template-Deleted-Stroryboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Template-Deleted-Stroryboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BF29D652DC2620C009FCC63 /* 24.Project 4 (WebKit).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "24.Project 4 (WebKit).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BF29DF62DC28751009FCC63 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		6BF29D772DC2620F009FCC63 /* Exceptions for "Template-Deleted-Stroryboard" folder in "Template-Deleted-Stroryboard" target */ = {
+		6BF29D772DC2620F009FCC63 /* Exceptions for "24.Project 4 (WebKit)" folder in "24.Project 4 (WebKit)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 6BF29D642DC2620C009FCC63 /* Template-Deleted-Stroryboard */;
+			target = 6BF29D642DC2620C009FCC63 /* 24.Project 4 (WebKit) */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6BF29D672DC2620C009FCC63 /* Template-Deleted-Stroryboard */ = {
+		6BF29D672DC2620C009FCC63 /* 24.Project 4 (WebKit) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				6BF29D772DC2620F009FCC63 /* Exceptions for "Template-Deleted-Stroryboard" folder in "Template-Deleted-Stroryboard" target */,
+				6BF29D772DC2620F009FCC63 /* Exceptions for "24.Project 4 (WebKit)" folder in "24.Project 4 (WebKit)" target */,
 			);
-			path = "Template-Deleted-Stroryboard";
+			path = "24.Project 4 (WebKit)";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -51,7 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				6BF29DF62DC28751009FCC63 /* README.md */,
-				6BF29D672DC2620C009FCC63 /* Template-Deleted-Stroryboard */,
+				6BF29D672DC2620C009FCC63 /* 24.Project 4 (WebKit) */,
 				6BF29D662DC2620C009FCC63 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,7 +59,7 @@
 		6BF29D662DC2620C009FCC63 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6BF29D652DC2620C009FCC63 /* Template-Deleted-Stroryboard.app */,
+				6BF29D652DC2620C009FCC63 /* 24.Project 4 (WebKit).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6BF29D642DC2620C009FCC63 /* Template-Deleted-Stroryboard */ = {
+		6BF29D642DC2620C009FCC63 /* 24.Project 4 (WebKit) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BF29D782DC2620F009FCC63 /* Build configuration list for PBXNativeTarget "Template-Deleted-Stroryboard" */;
+			buildConfigurationList = 6BF29D782DC2620F009FCC63 /* Build configuration list for PBXNativeTarget "24.Project 4 (WebKit)" */;
 			buildPhases = (
 				6BF29D612DC2620C009FCC63 /* Sources */,
 				6BF29D622DC2620C009FCC63 /* Frameworks */,
@@ -80,13 +80,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6BF29D672DC2620C009FCC63 /* Template-Deleted-Stroryboard */,
+				6BF29D672DC2620C009FCC63 /* 24.Project 4 (WebKit) */,
 			);
-			name = "Template-Deleted-Stroryboard";
+			name = "24.Project 4 (WebKit)";
 			packageProductDependencies = (
 			);
 			productName = "23.Project-4-FlagsInTableView";
-			productReference = 6BF29D652DC2620C009FCC63 /* Template-Deleted-Stroryboard.app */;
+			productReference = 6BF29D652DC2620C009FCC63 /* 24.Project 4 (WebKit).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6BF29D602DC2620C009FCC63 /* Build configuration list for PBXProject "Template-Deleted-Stroryboard" */;
+			buildConfigurationList = 6BF29D602DC2620C009FCC63 /* Build configuration list for PBXProject "24.Project 4 (WebKit)" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6BF29D642DC2620C009FCC63 /* Template-Deleted-Stroryboard */,
+				6BF29D642DC2620C009FCC63 /* 24.Project 4 (WebKit) */,
 			);
 		};
 /* End PBXProject section */
@@ -154,7 +154,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z4PKJ57KTJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Template-Deleted-Stroryboard/Info.plist";
+				INFOPLIST_FILE = "24.Project 4 (WebKit)/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -182,7 +182,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z4PKJ57KTJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Template-Deleted-Stroryboard/Info.plist";
+				INFOPLIST_FILE = "24.Project 4 (WebKit)/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -325,7 +325,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6BF29D602DC2620C009FCC63 /* Build configuration list for PBXProject "Template-Deleted-Stroryboard" */ = {
+		6BF29D602DC2620C009FCC63 /* Build configuration list for PBXProject "24.Project 4 (WebKit)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BF29D7B2DC2620F009FCC63 /* Debug */,
@@ -334,7 +334,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6BF29D782DC2620F009FCC63 /* Build configuration list for PBXNativeTarget "Template-Deleted-Stroryboard" */ = {
+		6BF29D782DC2620F009FCC63 /* Build configuration list for PBXNativeTarget "24.Project 4 (WebKit)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BF29D792DC2620F009FCC63 /* Debug */,
